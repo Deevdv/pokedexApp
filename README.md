@@ -1,2 +1,2 @@
-# pokedexApp
- 
+# pokedex-app
+ pokedex app
